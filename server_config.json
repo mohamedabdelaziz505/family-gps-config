@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "active_base_url": "http://127.0.0.1:5000",
+  "version": 2,
+  "active_base_url": "https://wrestling-throwing-saving-bloggers.trycloudflare.com",
   "force_update": false,
-  "message": "Config ready"
+  "message": "Cloudflare tunnel URL updated"
 }
