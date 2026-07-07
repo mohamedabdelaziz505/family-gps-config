@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "active_base_url": "https://money-happiness-delivers-webshots.trycloudflare.com",
+  "version": 1,
+  "active_base_url": "http://127.0.0.1:5000",
   "force_update": false,
-  "message": "Cloudflare tunnel URL updated"
+  "message": "Config ready"
 }
