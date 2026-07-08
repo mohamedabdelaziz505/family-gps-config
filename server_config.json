@@ -2,5 +2,5 @@
   "version": 2,
   "active_base_url": "https://piano-regardless-nano-specification.trycloudflare.com",
   "force_update": false,
-  "message": "Cloudflare tunnel URL updated"
+  "message": "Cloudflare tunnel URL updated before APK build"
 }
