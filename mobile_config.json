@@ -1,1 +1,6 @@
-
+{
+  "api_base_url": "https://entities-auto-planners-feelings.trycloudflare.com",
+  "mobile_api_token": "kids-mobile-api-token-v70-local",
+  "updated_at": "2026-07-09 16:38:22",
+  "source": "KidsTrainingConfigGUI V96"
+}
