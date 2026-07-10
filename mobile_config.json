@@ -1,6 +1,7 @@
 {
-  "api_base_url": "https://russia-loves-robbie-multi.trycloudflare.com",
+  "app_mode": "cloud",
+  "api_base_url": "https://collective-commitments-lifestyle-dana.trycloudflare.com",
   "mobile_api_token": "kids-mobile-api-token-v70-local",
-  "updated_at": "2026-07-09 17:06:24",
-  "source": "KidsTrainingConfigGUI V97"
+  "updated_at": "2026-07-10 21:05:12",
+  "source": "KidsTrainingConfigGUI V99"
 }
