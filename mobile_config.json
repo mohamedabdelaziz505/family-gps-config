@@ -1,8 +1,8 @@
 {
   "app_mode": "cloud",
-  "api_base_url": "https://finger-camcorder-chicago-congressional.trycloudflare.com",
+  "api_base_url": "https://discharge-eds-doing-chapter.trycloudflare.com",
   "mobile_api_token": "kids-mobile-api-token-v70-local",
-  "updated_at": "2026-07-11 19:08:34",
+  "updated_at": "2026-07-11 19:21:01",
   "source": "KidsTrainingConfigGUI V109",
   "dashboard_cards": {
     "admin_hero": true,
