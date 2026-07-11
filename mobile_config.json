@@ -1,8 +1,8 @@
 {
   "app_mode": "cloud",
-  "api_base_url": "https://education-existing-resume-kay.trycloudflare.com",
+  "api_base_url": "https://buck-fda-lyric-northern.trycloudflare.com",
   "mobile_api_token": "kids-mobile-api-token-v70-local",
-  "updated_at": "2026-07-11 12:15:54",
+  "updated_at": "2026-07-11 12:44:57",
   "source": "KidsTrainingConfigGUI V109",
   "dashboard_cards": {
     "admin_hero": true,
