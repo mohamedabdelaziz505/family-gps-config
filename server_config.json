@@ -1,7 +1,6 @@
 {
-  "app_mode": "cloud",
-  "api_base_url": "https://origin-shipped-encouraged-apart.trycloudflare.com",
-  "mobile_api_token": "kids-mobile-api-token-v70-local",
-  "updated_at": "2026-07-10 22:37:19",
-  "source": "KidsTrainingConfigGUI V100"
+  "version": 2,
+  "active_base_url": "https://excitement-repeated-separate-shakespeare.trycloudflare.com",
+  "force_update": false,
+  "message": "Cloudflare tunnel URL updated"
 }
