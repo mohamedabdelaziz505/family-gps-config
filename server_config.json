@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://shares-viewed-conducting-valid.trycloudflare.com",
-  "api_base_url": "https://shares-viewed-conducting-valid.trycloudflare.com",
+  "active_base_url": "https://labor-produce-inter-rain.trycloudflare.com",
+  "api_base_url": "https://labor-produce-inter-rain.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-14T15:18:32.865483+00:00",
+  "updated_at": "2026-07-14T16:42:19.632135+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
