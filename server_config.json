@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://juan-colorado-queensland-records.trycloudflare.com",
-  "api_base_url": "https://juan-colorado-queensland-records.trycloudflare.com",
+  "active_base_url": "https://mass-answers-develop-overall.trycloudflare.com",
+  "api_base_url": "https://mass-answers-develop-overall.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-14T10:38:49.596975+00:00",
+  "updated_at": "2026-07-14T13:23:54.052148+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
