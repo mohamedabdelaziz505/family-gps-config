@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://aging-trace-erp-zip.trycloudflare.com",
-  "api_base_url": "https://aging-trace-erp-zip.trycloudflare.com",
+  "active_base_url": "https://dip-velocity-nails-crowd.trycloudflare.com",
+  "api_base_url": "https://dip-velocity-nails-crowd.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-14T19:43:05.610293+00:00",
+  "updated_at": "2026-07-14T19:54:19.258504+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
