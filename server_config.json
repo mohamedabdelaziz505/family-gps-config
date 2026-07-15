@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://rank-harley-bluetooth-minimal.trycloudflare.com",
-  "api_base_url": "https://rank-harley-bluetooth-minimal.trycloudflare.com",
+  "active_base_url": "https://cayman-dining-beginning-overview.trycloudflare.com",
+  "api_base_url": "https://cayman-dining-beginning-overview.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-15T13:38:48.813921+00:00",
+  "updated_at": "2026-07-15T13:45:05.015872+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
