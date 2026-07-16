@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://phone-hundred-networks-charger.trycloudflare.com",
-  "api_base_url": "https://phone-hundred-networks-charger.trycloudflare.com",
+  "active_base_url": "https://democrats-webcams-para-aware.trycloudflare.com",
+  "api_base_url": "https://democrats-webcams-para-aware.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-16T11:29:46.164728+00:00",
+  "updated_at": "2026-07-16T15:14:17.281326+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
