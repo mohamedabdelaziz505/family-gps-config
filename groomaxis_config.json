@@ -2,14 +2,14 @@
   "version": 1,
   "enabled": true,
   "app_id": "groomaxis",
-  "active_base_url": "https://anchor-uri-vanilla-survey.trycloudflare.com",
-  "api_base_url": "https://anchor-uri-vanilla-survey.trycloudflare.com",
-  "api_url": "https://anchor-uri-vanilla-survey.trycloudflare.com/api/v1",
-  "socket_url": "https://anchor-uri-vanilla-survey.trycloudflare.com",
-  "media_url": "https://anchor-uri-vanilla-survey.trycloudflare.com/uploads",
+  "active_base_url": "https://controller-atlantic-dialogue-submission.trycloudflare.com",
+  "api_base_url": "https://controller-atlantic-dialogue-submission.trycloudflare.com",
+  "api_url": "https://controller-atlantic-dialogue-submission.trycloudflare.com/api/v1",
+  "socket_url": "https://controller-atlantic-dialogue-submission.trycloudflare.com",
+  "media_url": "https://controller-atlantic-dialogue-submission.trycloudflare.com/uploads",
   "environment": "test",
   "message_en": "GroomAxis server",
   "message_ar": "\u062e\u0627\u062f\u0645 \u062c\u0631\u0648\u0645 \u0623\u0643\u0633\u064a\u0633",
-  "updated_at": "2026-07-16T15:10:32.722910+00:00",
-  "source": "GroomAxis Control Center V13.2"
+  "updated_at": "2026-07-16T15:38:54.319746+00:00",
+  "source": "GroomAxis Control Center V13.3"
 }
