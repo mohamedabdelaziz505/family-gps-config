@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://exports-syndication-workplace-kent.trycloudflare.com",
-  "api_base_url": "https://exports-syndication-workplace-kent.trycloudflare.com",
+  "active_base_url": "https://bruce-growth-trace-running.trycloudflare.com",
+  "api_base_url": "https://bruce-growth-trace-running.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-19T10:30:51.830527+00:00",
+  "updated_at": "2026-07-19T12:14:47.886203+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
