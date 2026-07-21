@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://expected-advancement-forest-velvet.trycloudflare.com",
-  "api_base_url": "https://expected-advancement-forest-velvet.trycloudflare.com",
+  "active_base_url": "https://sequences-interest-adoption-rely.trycloudflare.com",
+  "api_base_url": "https://sequences-interest-adoption-rely.trycloudflare.com",
   "environment": "test",
   "message_en": "Rahla Transport server",
   "message_ar": "خادم رحلة للنقل",
-  "updated_at": "2026-07-21T18:17:33.589735+00:00",
+  "updated_at": "2026-07-21T18:22:25.962042+00:00",
   "source": "Rahla Transport Control Center V3.2"
 }
