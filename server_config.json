@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://relations-hazardous-vista-embedded.trycloudflare.com",
-  "api_base_url": "https://relations-hazardous-vista-embedded.trycloudflare.com",
+  "active_base_url": "https://improvements-artist-vary-rarely.trycloudflare.com",
+  "api_base_url": "https://improvements-artist-vary-rarely.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-24T12:11:17.629751+00:00",
+  "updated_at": "2026-07-24T14:30:15.708537+00:00",
   "source": "Rehla Control Center V3.2"
 }
