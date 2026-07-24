@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://cardiovascular-quantum-theaters-jerry.trycloudflare.com",
-  "api_base_url": "https://cardiovascular-quantum-theaters-jerry.trycloudflare.com",
+  "active_base_url": "https://plots-pulled-disposition-travis.trycloudflare.com",
+  "api_base_url": "https://plots-pulled-disposition-travis.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-23T15:13:51.639077+00:00",
+  "updated_at": "2026-07-24T10:10:01.581896+00:00",
   "source": "Rehla Control Center V3.2"
 }
