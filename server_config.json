@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://all-golf-files-calendars.trycloudflare.com",
-  "api_base_url": "https://all-golf-files-calendars.trycloudflare.com",
+  "active_base_url": "https://thou-essex-social-spread.trycloudflare.com",
+  "api_base_url": "https://thou-essex-social-spread.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-25T14:44:32.951771+00:00",
+  "updated_at": "2026-07-25T15:02:00.379041+00:00",
   "source": "Rehla Control Center V3.2"
 }
