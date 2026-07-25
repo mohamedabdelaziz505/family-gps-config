@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://feof-heel-stands-handheld.trycloudflare.com",
-  "api_base_url": "https://feof-heel-stands-handheld.trycloudflare.com",
+  "active_base_url": "https://scripting-mechanics-touch-backing.trycloudflare.com",
+  "api_base_url": "https://scripting-mechanics-touch-backing.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-25T08:08:25.099223+00:00",
+  "updated_at": "2026-07-25T10:54:04.340092+00:00",
   "source": "Rehla Control Center V3.2"
 }
