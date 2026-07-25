@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://cage-dependence-hudson-institutions.trycloudflare.com",
-  "api_base_url": "https://cage-dependence-hudson-institutions.trycloudflare.com",
+  "active_base_url": "https://had-router-dating-records.trycloudflare.com",
+  "api_base_url": "https://had-router-dating-records.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-25T15:39:04.001524+00:00",
+  "updated_at": "2026-07-25T16:21:28.281451+00:00",
   "source": "Rehla Control Center V3.2"
 }
