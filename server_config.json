@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://alaska-diy-exit-ocean.trycloudflare.com",
-  "api_base_url": "https://alaska-diy-exit-ocean.trycloudflare.com",
+  "active_base_url": "https://spam-reports-colleagues-interference.trycloudflare.com",
+  "api_base_url": "https://spam-reports-colleagues-interference.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-25T21:15:19.965264+00:00",
+  "updated_at": "2026-07-25T22:46:43.076441+00:00",
   "source": "Rehla Control Center V3.2"
 }
