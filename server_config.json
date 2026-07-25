@@ -1,11 +1,11 @@
 {
   "version": 1,
   "enabled": true,
-  "active_base_url": "https://introduces-perl-records-prominent.trycloudflare.com",
-  "api_base_url": "https://introduces-perl-records-prominent.trycloudflare.com",
+  "active_base_url": "https://connector-transaction-content-granny.trycloudflare.com",
+  "api_base_url": "https://connector-transaction-content-granny.trycloudflare.com",
   "environment": "test",
   "message_en": "Rehla server",
   "message_ar": "خادم رحلة",
-  "updated_at": "2026-07-25T11:17:26.835280+00:00",
+  "updated_at": "2026-07-25T14:06:03.647573+00:00",
   "source": "Rehla Control Center V3.2"
 }
